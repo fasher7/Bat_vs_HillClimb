@@ -1,0 +1,301 @@
+For Hill Climb Algorithm
+Iteration 1's current best distance: 99612.6
+Iteration 2's current best distance: 99612.6
+Iteration 3's current best distance: 99612.6
+Iteration 4's current best distance: 99612.6
+Iteration 5's current best distance: 88150.75
+Iteration 6's current best distance: 88150.75
+Iteration 7's current best distance: 88150.75
+Iteration 8's current best distance: 88150.75
+Iteration 9's current best distance: 88150.75
+Iteration 10's current best distance: 88150.75
+Iteration 11's current best distance: 88150.75
+Iteration 12's current best distance: 88150.75
+Iteration 13's current best distance: 88150.75
+Iteration 14's current best distance: 88150.75
+Iteration 15's current best distance: 88150.75
+Iteration 16's current best distance: 88150.75
+Iteration 17's current best distance: 88150.75
+Iteration 18's current best distance: 88150.75
+Iteration 19's current best distance: 88150.75
+Iteration 20's current best distance: 88150.75
+Iteration 21's current best distance: 88150.75
+Iteration 22's current best distance: 88150.75
+Iteration 23's current best distance: 88150.75
+Iteration 24's current best distance: 80994.79
+Iteration 25's current best distance: 80994.79
+Iteration 26's current best distance: 80994.79
+Iteration 27's current best distance: 80994.79
+Iteration 28's current best distance: 80994.79
+Iteration 29's current best distance: 80994.79
+Iteration 30's current best distance: 80994.79
+Iteration 31's current best distance: 80994.79
+Iteration 32's current best distance: 80994.79
+Iteration 33's current best distance: 80994.79
+Iteration 34's current best distance: 80994.79
+Iteration 35's current best distance: 80994.79
+Iteration 36's current best distance: 80994.79
+Iteration 37's current best distance: 80994.79
+Iteration 38's current best distance: 80994.79
+Iteration 39's current best distance: 80994.79
+Iteration 40's current best distance: 80994.79
+Iteration 41's current best distance: 80994.79
+Iteration 42's current best distance: 80994.79
+Iteration 43's current best distance: 80994.79
+Iteration 44's current best distance: 80994.79
+Iteration 45's current best distance: 80994.79
+Iteration 46's current best distance: 80994.79
+Iteration 47's current best distance: 80994.79
+Iteration 48's current best distance: 80994.79
+Iteration 49's current best distance: 80994.79
+Iteration 50's current best distance: 80994.79
+Iteration 51's current best distance: 80994.79
+Iteration 52's current best distance: 80994.79
+Iteration 53's current best distance: 80994.79
+Iteration 54's current best distance: 80994.79
+Iteration 55's current best distance: 80994.79
+Iteration 56's current best distance: 80994.79
+Iteration 57's current best distance: 80994.79
+Iteration 58's current best distance: 80994.79
+Iteration 59's current best distance: 80994.79
+Iteration 60's current best distance: 80994.79
+Iteration 61's current best distance: 80994.79
+Iteration 62's current best distance: 80994.79
+Iteration 63's current best distance: 80994.79
+Iteration 64's current best distance: 80994.79
+Iteration 65's current best distance: 80994.79
+Iteration 66's current best distance: 80994.79
+Iteration 67's current best distance: 80994.79
+Iteration 68's current best distance: 80994.79
+Iteration 69's current best distance: 80994.79
+Iteration 70's current best distance: 80994.79
+Iteration 71's current best distance: 80994.79
+Iteration 72's current best distance: 80994.79
+Iteration 73's current best distance: 80994.79
+Iteration 74's current best distance: 80994.79
+Iteration 75's current best distance: 80994.79
+Iteration 76's current best distance: 80994.79
+Iteration 77's current best distance: 80994.79
+Iteration 78's current best distance: 80994.79
+Iteration 79's current best distance: 80994.79
+Iteration 80's current best distance: 80994.79
+Iteration 81's current best distance: 80994.79
+Iteration 82's current best distance: 80994.79
+Iteration 83's current best distance: 80994.79
+Iteration 84's current best distance: 80994.79
+Iteration 85's current best distance: 80994.79
+Iteration 86's current best distance: 80994.79
+Iteration 87's current best distance: 80994.79
+Iteration 88's current best distance: 80994.79
+Iteration 89's current best distance: 80994.79
+Iteration 90's current best distance: 80994.79
+Iteration 91's current best distance: 80994.79
+Iteration 92's current best distance: 80994.79
+Iteration 93's current best distance: 80994.79
+Iteration 94's current best distance: 80994.79
+Iteration 95's current best distance: 80994.79
+Iteration 96's current best distance: 80994.79
+Iteration 97's current best distance: 80994.79
+Iteration 98's current best distance: 80994.79
+Iteration 99's current best distance: 80994.79
+Iteration 100's current best distance: 80994.79
+Optimal Distance = 33523.71
+Best Distance of Hill Climb = 80994.79
+Relative Percent Error = 141.6%
+
+For Bat Algorithm
+For Population 50, Iteration 1's best bat distance: 84490.05
+For Population 50, Iteration 2's best bat distance: 74861.58
+For Population 50, Iteration 3's best bat distance: 67375.43
+For Population 50, Iteration 4's best bat distance: 67375.43
+For Population 50, Iteration 5's best bat distance: 67375.43
+For Population 50, Iteration 6's best bat distance: 66266.2
+For Population 50, Iteration 7's best bat distance: 59889.27
+For Population 50, Iteration 8's best bat distance: 59889.27
+For Population 50, Iteration 9's best bat distance: 59889.27
+For Population 50, Iteration 10's best bat distance: 59889.27
+For Population 50, Iteration 11's best bat distance: 59889.27
+For Population 50, Iteration 12's best bat distance: 59889.27
+For Population 50, Iteration 13's best bat distance: 59889.27
+For Population 50, Iteration 14's best bat distance: 59889.27
+For Population 50, Iteration 15's best bat distance: 59889.27
+For Population 50, Iteration 16's best bat distance: 59889.27
+For Population 50, Iteration 17's best bat distance: 59889.27
+For Population 50, Iteration 18's best bat distance: 59889.27
+For Population 50, Iteration 19's best bat distance: 59889.27
+For Population 50, Iteration 20's best bat distance: 59889.27
+For Population 50, Iteration 21's best bat distance: 59889.27
+For Population 50, Iteration 22's best bat distance: 59889.27
+For Population 50, Iteration 23's best bat distance: 59889.27
+For Population 50, Iteration 24's best bat distance: 59889.27
+For Population 50, Iteration 25's best bat distance: 59889.27
+For Population 50, Iteration 26's best bat distance: 59889.27
+For Population 50, Iteration 27's best bat distance: 59889.27
+For Population 50, Iteration 28's best bat distance: 59889.27
+For Population 50, Iteration 29's best bat distance: 59889.27
+For Population 50, Iteration 30's best bat distance: 59889.27
+For Population 50, Iteration 31's best bat distance: 59889.27
+For Population 50, Iteration 32's best bat distance: 59889.27
+For Population 50, Iteration 33's best bat distance: 59889.27
+For Population 50, Iteration 34's best bat distance: 59889.27
+For Population 50, Iteration 35's best bat distance: 59889.27
+For Population 50, Iteration 36's best bat distance: 59889.27
+For Population 50, Iteration 37's best bat distance: 59889.27
+For Population 50, Iteration 38's best bat distance: 59889.27
+For Population 50, Iteration 39's best bat distance: 59889.27
+For Population 50, Iteration 40's best bat distance: 59889.27
+For Population 50, Iteration 41's best bat distance: 59889.27
+For Population 50, Iteration 42's best bat distance: 59889.27
+For Population 50, Iteration 43's best bat distance: 59889.27
+For Population 50, Iteration 44's best bat distance: 59889.27
+For Population 50, Iteration 45's best bat distance: 59889.27
+For Population 50, Iteration 46's best bat distance: 59889.27
+For Population 50, Iteration 47's best bat distance: 59889.27
+For Population 50, Iteration 48's best bat distance: 59889.27
+For Population 50, Iteration 49's best bat distance: 59889.27
+For Population 50, Iteration 50's best bat distance: 59889.27
+For Population 50, Iteration 51's best bat distance: 59889.27
+For Population 50, Iteration 52's best bat distance: 59889.27
+For Population 50, Iteration 53's best bat distance: 59889.27
+For Population 50, Iteration 54's best bat distance: 59889.27
+For Population 50, Iteration 55's best bat distance: 59889.27
+For Population 50, Iteration 56's best bat distance: 59889.27
+For Population 50, Iteration 57's best bat distance: 59889.27
+For Population 50, Iteration 58's best bat distance: 59889.27
+For Population 50, Iteration 59's best bat distance: 59889.27
+For Population 50, Iteration 60's best bat distance: 59889.27
+For Population 50, Iteration 61's best bat distance: 59889.27
+For Population 50, Iteration 62's best bat distance: 59889.27
+For Population 50, Iteration 63's best bat distance: 59889.27
+For Population 50, Iteration 64's best bat distance: 59889.27
+For Population 50, Iteration 65's best bat distance: 59889.27
+For Population 50, Iteration 66's best bat distance: 59889.27
+For Population 50, Iteration 67's best bat distance: 59889.27
+For Population 50, Iteration 68's best bat distance: 59889.27
+For Population 50, Iteration 69's best bat distance: 59889.27
+For Population 50, Iteration 70's best bat distance: 59889.27
+For Population 50, Iteration 71's best bat distance: 59889.27
+For Population 50, Iteration 72's best bat distance: 59889.27
+For Population 50, Iteration 73's best bat distance: 59889.27
+For Population 50, Iteration 74's best bat distance: 59889.27
+For Population 50, Iteration 75's best bat distance: 59889.27
+For Population 50, Iteration 76's best bat distance: 59889.27
+For Population 50, Iteration 77's best bat distance: 59889.27
+For Population 50, Iteration 78's best bat distance: 59889.27
+For Population 50, Iteration 79's best bat distance: 59889.27
+For Population 50, Iteration 80's best bat distance: 59889.27
+For Population 50, Iteration 81's best bat distance: 59889.27
+For Population 50, Iteration 82's best bat distance: 59889.27
+For Population 50, Iteration 83's best bat distance: 59889.27
+For Population 50, Iteration 84's best bat distance: 59889.27
+For Population 50, Iteration 85's best bat distance: 59889.27
+For Population 50, Iteration 86's best bat distance: 59889.27
+For Population 50, Iteration 87's best bat distance: 59889.27
+For Population 50, Iteration 88's best bat distance: 59889.27
+For Population 50, Iteration 89's best bat distance: 59889.27
+For Population 50, Iteration 90's best bat distance: 59889.27
+For Population 50, Iteration 91's best bat distance: 59889.27
+For Population 50, Iteration 92's best bat distance: 59889.27
+For Population 50, Iteration 93's best bat distance: 59889.27
+For Population 50, Iteration 94's best bat distance: 59889.27
+For Population 50, Iteration 95's best bat distance: 59889.27
+For Population 50, Iteration 96's best bat distance: 59889.27
+For Population 50, Iteration 97's best bat distance: 59889.27
+For Population 50, Iteration 98's best bat distance: 59889.27
+For Population 50, Iteration 99's best bat distance: 59889.27
+For Population 50, Iteration 100's best bat distance: 59889.27
+For Population 100, Iteration 1's best bat distance: 71797.05
+For Population 100, Iteration 2's best bat distance: 67375.43
+For Population 100, Iteration 3's best bat distance: 57167.34
+For Population 100, Iteration 4's best bat distance: 52403.11
+For Population 100, Iteration 5's best bat distance: 52403.11
+For Population 100, Iteration 6's best bat distance: 52403.11
+For Population 100, Iteration 7's best bat distance: 52403.11
+For Population 100, Iteration 8's best bat distance: 52403.11
+For Population 100, Iteration 9's best bat distance: 52403.11
+For Population 100, Iteration 10's best bat distance: 52403.11
+For Population 100, Iteration 11's best bat distance: 52403.11
+For Population 100, Iteration 12's best bat distance: 52403.11
+For Population 100, Iteration 13's best bat distance: 52403.11
+For Population 100, Iteration 14's best bat distance: 52403.11
+For Population 100, Iteration 15's best bat distance: 52403.11
+For Population 100, Iteration 16's best bat distance: 52403.11
+For Population 100, Iteration 17's best bat distance: 52403.11
+For Population 100, Iteration 18's best bat distance: 48411.67
+For Population 100, Iteration 19's best bat distance: 48411.67
+For Population 100, Iteration 20's best bat distance: 48411.67
+For Population 100, Iteration 21's best bat distance: 48411.67
+For Population 100, Iteration 22's best bat distance: 48411.67
+For Population 100, Iteration 23's best bat distance: 48411.67
+For Population 100, Iteration 24's best bat distance: 48411.67
+For Population 100, Iteration 25's best bat distance: 48411.67
+For Population 100, Iteration 26's best bat distance: 48411.67
+For Population 100, Iteration 27's best bat distance: 48411.67
+For Population 100, Iteration 28's best bat distance: 48411.67
+For Population 100, Iteration 29's best bat distance: 48411.67
+For Population 100, Iteration 30's best bat distance: 48411.67
+For Population 100, Iteration 31's best bat distance: 48411.67
+For Population 100, Iteration 32's best bat distance: 48411.67
+For Population 100, Iteration 33's best bat distance: 48411.67
+For Population 100, Iteration 34's best bat distance: 48411.67
+For Population 100, Iteration 35's best bat distance: 48411.67
+For Population 100, Iteration 36's best bat distance: 48411.67
+For Population 100, Iteration 37's best bat distance: 48411.67
+For Population 100, Iteration 38's best bat distance: 48411.67
+For Population 100, Iteration 39's best bat distance: 48411.67
+For Population 100, Iteration 40's best bat distance: 48411.67
+For Population 100, Iteration 41's best bat distance: 48411.67
+For Population 100, Iteration 42's best bat distance: 48411.67
+For Population 100, Iteration 43's best bat distance: 48411.67
+For Population 100, Iteration 44's best bat distance: 48411.67
+For Population 100, Iteration 45's best bat distance: 48411.67
+For Population 100, Iteration 46's best bat distance: 48411.67
+For Population 100, Iteration 47's best bat distance: 48411.67
+For Population 100, Iteration 48's best bat distance: 48411.67
+For Population 100, Iteration 49's best bat distance: 48411.67
+For Population 100, Iteration 50's best bat distance: 48411.67
+For Population 200, Iteration 1's best bat distance: 70515.4
+For Population 200, Iteration 2's best bat distance: 61888.56
+For Population 200, Iteration 3's best bat distance: 58226.34
+For Population 200, Iteration 4's best bat distance: 57167.34
+For Population 200, Iteration 5's best bat distance: 57167.34
+For Population 200, Iteration 6's best bat distance: 52403.11
+For Population 200, Iteration 7's best bat distance: 52403.11
+For Population 200, Iteration 8's best bat distance: 52403.11
+For Population 200, Iteration 9's best bat distance: 52403.11
+For Population 200, Iteration 10's best bat distance: 52403.11
+For Population 200, Iteration 11's best bat distance: 37430.79
+For Population 200, Iteration 12's best bat distance: 37430.79
+For Population 200, Iteration 13's best bat distance: 37430.79
+For Population 200, Iteration 14's best bat distance: 37430.79
+For Population 200, Iteration 15's best bat distance: 37430.79
+For Population 200, Iteration 16's best bat distance: 37430.79
+For Population 200, Iteration 17's best bat distance: 37430.79
+For Population 200, Iteration 18's best bat distance: 37430.79
+For Population 200, Iteration 19's best bat distance: 37430.79
+For Population 200, Iteration 20's best bat distance: 37430.79
+For Population 200, Iteration 21's best bat distance: 37430.79
+For Population 200, Iteration 22's best bat distance: 37430.79
+For Population 200, Iteration 23's best bat distance: 37430.79
+For Population 200, Iteration 24's best bat distance: 37430.79
+For Population 200, Iteration 25's best bat distance: 37430.79
+For Population 500, Iteration 1's best bat distance: 69524.11
+For Population 500, Iteration 2's best bat distance: 52403.11
+For Population 500, Iteration 3's best bat distance: 52403.11
+For Population 500, Iteration 4's best bat distance: 45674.08
+For Population 500, Iteration 5's best bat distance: 44916.95
+For Population 500, Iteration 6's best bat distance: 44916.95
+For Population 500, Iteration 7's best bat distance: 44916.95
+For Population 500, Iteration 8's best bat distance: 37430.79
+For Population 500, Iteration 9's best bat distance: 37430.79
+For Population 500, Iteration 10's best bat distance: 37430.79
+
+Optimal Distance = 33523.71
+For Population 50, Bat's Best Distance = 59889.27
+For Population 50, Relative Percentage Error = 78.65%
+For Population 100, Bat's Best Distance = 48411.67
+For Population 100, Relative Percentage Error = 44.41%
+For Population 200, Bat's Best Distance = 37430.79
+For Population 200, Relative Percentage Error = 11.65%
+For Population 500, Bat's Best Distance = 37430.79
+For Population 500, Relative Percentage Error = 11.65%
